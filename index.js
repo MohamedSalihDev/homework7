@@ -46,7 +46,7 @@ function promptUser() {
       {
         type: "input",
         name: "license",
-        message: "Pick a license: MIT, Apache-2.0, MPL-2.0  "
+        message: "Pick a license: MIT, GPL, GPLv3, CC, CC--0, MPL, Apache  "
       },
       {
         type: "input",

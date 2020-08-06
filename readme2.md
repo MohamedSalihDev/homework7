@@ -1,7 +1,4 @@
-
-    ![Markdown Logo](https://markdown-here.com/img/icon256.png)
-
-    # Automate your billing!
+# Automate your billing
     [![License: Apache-2.0](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ___
@@ -24,32 +21,35 @@ ___
 
 > ## Description
 
-This is a project that helps you to automate the billing process in the ahcccs website because it takes too long
+This is how you make your billing automatic instead of doing it manually.
 
 > ## Instructions
 
-you go to the webpage, you click the link , you follow instructions
+You go to my website, press the link , follow instructions, that's it.
 
-> ## Usage
+>## Usage
 
-anybody can use this project as they please
+Anybody can use this project.
 
-> ## Contribution
+>## Contribution
 
-nobody, just me
+no one, just me and poojah pareth
 
-> ## Test
+>## Test
 
-you just test it to see if there are bugs, just let me know
+you dont, it works fine man
 
 
-> ## License
+>## License
 "This project is covered under the Apache-2.0 license"
   
-## Questions
-My GitH
+>## Questions
+My GitHub name is mohamedsalihdev
 If you have any questions you may reach
 me at masm0012@yahoo.com 
+
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
  
  
  
