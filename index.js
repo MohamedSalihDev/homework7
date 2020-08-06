@@ -36,12 +36,12 @@ function promptUser() {
       {
         type: "input",
         name: "contribution",
-        message: "Who contibuted to this project"
+        message: "Who contibuted to this project?"
       },
       {
         type: "input",
         name: "test",
-        message: "How do you test this project"
+        message: "How do you test this project?"
       },
       {
         type: "input",
