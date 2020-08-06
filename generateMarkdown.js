@@ -24,7 +24,7 @@ ___
  ## Description
 
 >${data.description}
-![screenshot before](./assets/ScreenshotBefore.jpg)
+![screenshot before](./assets/ScreenshotBefore.png)
 ![screenshot after](./assets/ScreenshotAfter.jpg)
 
  ## Instructions
