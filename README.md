@@ -22,7 +22,7 @@ ___
 
  ## Description
 
->This is a CLI app that generates a readme.md file for your project. It uses the node inquirer package to present a set of questions in the command line that guide the user in generating the readme. It takes the answers and plugs them into a neatly formatted readme.md template. The readme2.md file is designed to display the results of the readme generator and is not intended to describe a real app.
+>This is a CLI app that generates a readme.md file for your project. It uses the node inquirer package to present a set of questions in the command line that guide the user in generating the readme. It takes the answers and plugs them into a neatly formatted readme.md template. The readme2.md file is designed to display the results of the readme generator and is not intended to describe a real app. The screenshots in the assets folder are just pretend examples of how the app might work. Users would have to enter them manually as appropriate.
 
  ## Instructions
 
