@@ -8,19 +8,19 @@ function generateMarkdown(data) {
 ___
 # Table of Contents
 
-### Description
+### [Description](#description)
 
-### Instructions
+### [Instructions](#instructions)
 
-### Usage
+### [Usage](#usage)
 
-### Contribution
+### [Contribution](#contribution)
 
-### Test
+### [Test](#contribution)
 
-### License
+### [License](#license)
 
-### Questions
+### [Questions](#questions)
 ___
 
 > ## Description
