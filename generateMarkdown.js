@@ -5,7 +5,7 @@ function generateMarkdown(data) {
     # ${data.title}
     [![License: ${data.license}](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/${data.license})
 
-
+___
 # Table of Contents
 
 ### Description
@@ -21,31 +21,30 @@ function generateMarkdown(data) {
 ### License
 
 ### Questions
+___
 
-
-## Description
+> ## Description
 
 ${data.description}
 
-## Instructions
+> ## Instructions
 
 ${data.instructions}
 
-
-## Usage
+> ## Usage
 
 ${data.usage}
 
-## Contribution
+> ## Contribution
 
 ${data.contribution}
 
-## Test
+> ## Test
 
 ${data.test}
 
 
-## License
+> ## License
 "This project is covered under the ${data.license} license"
   
 ## Questions
