@@ -1,6 +1,6 @@
 
 # Readme Generator
-    [![License: ${data.license}](https://img.shields.io/badge/License-MIT20%-blue.svg)]
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
 ___
 # Table of Contents
@@ -30,7 +30,7 @@ ___
 
 ## Usage
 
->Answer the questions completely and accurately in the command line. Your readme.md will be automatically generated as readme2.md
+>Answer the questions completely and accurately in the command line. Your readme.md will be automatically generated as readme2.md.
 
 ## Contribution
 

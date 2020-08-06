@@ -1,6 +1,7 @@
 function generateMarkdown(data) {
     return `# ${data.title}
-    [![License: ${data.license}](https://img.shields.io/badge/License-${data.license}%20-blue.svg)]
+
+![License](https://img.shields.io/badge/License-${data.license}%20-blue.svg)
 
 ___
 # Table of Contents
@@ -36,16 +37,16 @@ ___
 
 >${data.contribution}
 
->## Test
+## Test
 
 >${data.test}
 
 
 ## License
->"This project is covered under the ${data.license} license"
+>This project is covered under the ${data.license} license.
   
->## Questions
-My GitHub name is ${data.username}.
+## Questions
+>My GitHub name is ${data.username}.
 If you have any questions you may reach
 me at ${data.email} .
 
